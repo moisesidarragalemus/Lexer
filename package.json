@@ -1,0 +1,15 @@
+{
+  "name": "lexer",
+  "version": "1.0.0",
+  "description": "Esto es un lexer para compiladores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcela viloria, jorge fernandez, moises idarraga, andres mendoza",
+  "license": "ISC",
+  "dependencies": {
+    "moo": "^0.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
